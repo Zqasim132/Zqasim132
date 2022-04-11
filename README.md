@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p>
 <list>
 <ol> 🔭 IOT (Internet of Things) at PIAIC (President Initiative Artificial Intelligent and computing) Faisalabad. December 22nd, 2019 - Continue</ol>
-<ol> 🔥DECLAMATION AND PUBLIC SPEAKING TRAINING workshop organized by Debating Club UAF.January 29th, 2018</ol>
+<ol> 🔥 DECLAMATION AND PUBLIC SPEAKING TRAINING workshop organized by Debating Club UAF.January 29th, 2018</ol>
 </list>
 </p>
 
