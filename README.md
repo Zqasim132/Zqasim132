@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <list>
 <ul> 😄 I am young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> ✏️ I have done my Bachelor’s degree in BS Information Technology from University of Agriculture, Faislabad, Batch (2016-2020) </ul>
-<ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, Angular 13, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Asp.Net Biolerplate, Asp.Net Zero, ABP.IO, Worker Services, MS-SQL , My SQL & OOAD Design. </ul>
+<ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, Angular 13, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Asp.Net Boilerplate, Asp.Net Zero, ABP.IO, Worker Services, MS-SQL , My SQL & OOAD Design. </ul>
 <ul> ⚡ I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
 <ul> 💎 I am interested in learning NFT, BlockChain & Web 3.0. and IOT (Internet of Things) </ul>
 <ul> 📩 You can reach out to me: zqasim123@outlook.com </ul>
